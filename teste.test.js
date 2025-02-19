@@ -1,6 +1,3 @@
-
-
-
 let a = 'oi'
 let b = 'olá'
 
