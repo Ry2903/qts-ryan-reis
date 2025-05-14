@@ -1,2 +1,4 @@
 # 💡 Qualidade e Teste de Software
-Repositório para as aulas de QTS com o professor João Siles
+
+### ℹ️ Sobre:
+Repositório para as aulas de QTS com os professores João Siles e Márcio
